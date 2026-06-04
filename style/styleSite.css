@@ -1,6 +1,7 @@
 body {
   text-align: center;
   font-family: Arial;
+  background-color: red;
 }
 
 body > div:first-child {
